@@ -28,7 +28,7 @@
                         e.preventDefault(), window.open("https://app.uniswap.org/explore/tokens/ethereum/0xcomingsoon", "_blank")
                     },
                     c = e => {
-                        e.preventDefault(), window.open("https://pinkai.vercel.app/", "_blank")
+                        e.preventDefault(), window.open("https://app-pink-ai-bat2.vercel.app//", "_blank")
                     };
                 return (0, s.jsxs)("header", {
                     className: "header  sticky-top bg-".concat(!0 == e ? "white" : "black", " ").concat(t ? "expanded" : "collapsed"),
